@@ -4,3 +4,6 @@ In this project, I have created a chatbot using Langchain framework on GPT-3.5. 
 In the LangChain Research Bot Dashboard file, I have shown the pipeline at a go along with a dashboard with the chatbot for interaction with the user. The user can also see the Database and the Chat History of the interaction. I have used Panel and Param to create the same. 
 
 An example of the dashboard has been uploaded in the Research Bot.png file. 
+
+Stay tuned for more
+Thank you 
